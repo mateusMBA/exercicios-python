@@ -1,4 +1,4 @@
-# exercicios-python
+# Descrição
 
 Esse repositório contém algortítmos desenvolvidos durante meu estudo da linguagem Python.
 
